@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-beach-resort/static/css/main.7cc31489.chunk.css",
-    "main.js": "/react-beach-resort/static/js/main.dcf3b2cb.chunk.js",
-    "main.js.map": "/react-beach-resort/static/js/main.dcf3b2cb.chunk.js.map",
+    "main.js": "/react-beach-resort/static/js/main.6fe481e9.chunk.js",
+    "main.js.map": "/react-beach-resort/static/js/main.6fe481e9.chunk.js.map",
     "runtime-main.js": "/react-beach-resort/static/js/runtime-main.0b80ae53.js",
     "runtime-main.js.map": "/react-beach-resort/static/js/runtime-main.0b80ae53.js.map",
-    "static/js/2.62b87307.chunk.js": "/react-beach-resort/static/js/2.62b87307.chunk.js",
-    "static/js/2.62b87307.chunk.js.map": "/react-beach-resort/static/js/2.62b87307.chunk.js.map",
+    "static/js/2.74a888ad.chunk.js": "/react-beach-resort/static/js/2.74a888ad.chunk.js",
+    "static/js/2.74a888ad.chunk.js.map": "/react-beach-resort/static/js/2.74a888ad.chunk.js.map",
     "static/js/3.6670b39b.chunk.js": "/react-beach-resort/static/js/3.6670b39b.chunk.js",
     "static/js/3.6670b39b.chunk.js.map": "/react-beach-resort/static/js/3.6670b39b.chunk.js.map",
     "index.html": "/react-beach-resort/index.html",
     "static/css/main.7cc31489.chunk.css.map": "/react-beach-resort/static/css/main.7cc31489.chunk.css.map",
-    "static/js/2.62b87307.chunk.js.LICENSE.txt": "/react-beach-resort/static/js/2.62b87307.chunk.js.LICENSE.txt",
+    "static/js/2.74a888ad.chunk.js.LICENSE.txt": "/react-beach-resort/static/js/2.74a888ad.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-beach-resort/static/media/room-2.48c60181.jpeg",
     "static/media/details-1.c4851740.jpeg": "/react-beach-resort/static/media/details-1.c4851740.jpeg",
     "static/media/details-2.dc89255d.jpeg": "/react-beach-resort/static/media/details-2.dc89255d.jpeg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b80ae53.js",
-    "static/js/2.62b87307.chunk.js",
+    "static/js/2.74a888ad.chunk.js",
     "static/css/main.7cc31489.chunk.css",
-    "static/js/main.dcf3b2cb.chunk.js"
+    "static/js/main.6fe481e9.chunk.js"
   ]
 }
